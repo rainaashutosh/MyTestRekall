@@ -1,0 +1,10 @@
+dependent_versions:
+- _version.py
+- rekall-core/rekall/_version.py
+- rekall-gui/_version.py
+- tools/layout_expert/layout_expert/_version.py
+version_data:
+  codename: Furka
+  post: '0'
+  rc: '0'
+  version: 1.5.3
